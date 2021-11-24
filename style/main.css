@@ -1,0 +1,57 @@
+.container-fluid {
+  background-color: black;
+}
+
+.container-fluid .row .col-md-3 img {
+  width: 300px;
+  height: 350px;
+  padding: 20px;
+}
+
+.scroll {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 23px;
+  color: black;
+  background-color: orangered;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-menu {
+  background-color: orange;
+}
+
+.container-menu h1 {
+  font-size: 55px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  color: orangered;
+}
+
+.container-menu .container-best-seller {
+  padding: 3px;
+}
+
+.container-menu .container-best-seller .card {
+  margin: 10px;
+  padding: 5px;
+}
+
+.container-menu .container-best-seller .card h5 {
+  -webkit-text-decoration: black;
+          text-decoration: black;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=main.css.map */

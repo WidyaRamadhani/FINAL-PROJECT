@@ -1,0 +1,57 @@
+
+// NAVBAR
+.container-fluid {
+    background-color: black; 
+        .row {
+            .col-md-3 {
+                img {
+                    width: 300px;
+                    height: 350px;   
+                    padding: 20px;
+
+                }
+            }
+        }
+}
+// END OF NAVBAR
+
+
+// BANNER
+.scroll {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 23px;
+    color: black;
+    background-color: orangered;
+    margin: 0px;
+    padding: 0px;
+}
+//END OF BANNER
+
+// ABOUT US
+.container-menu {
+    background-color: orange;
+    h1 {
+        font-size: 55px;
+        justify-content: center;
+        align-self: center;
+        align-content: center;
+        color: orangered;
+    }
+   
+    .container-best-seller {
+        padding: 3px;
+        .card {
+            margin: 10px;
+            padding: 5px;
+            h5 {
+                text-decoration: black;
+                align-items: center;
+                justify-content: center;
+            }
+        }
+        
+    }
+}
+// END OF ABOUT US
+
